@@ -3,6 +3,7 @@
 Collection of language-specific style guides created and maintained by tech companies.
 
 # Contributions
+
 Add style guides or edit this list by submitting a pull request. Please order names alphabetically.
 
 ## C#
@@ -31,8 +32,8 @@ Add style guides or edit this list by submitting a pull request. Please order na
 
 ### Angular
 
+* [GoCardless](https://github.com/gocardless/angularjs-style-guide)
 * [Google](https://google.github.io/styleguide/angularjs-google-style.html)
-* [gocardless](https://github.com/gocardless/angularjs-style-guide)
 
 ### React
 
@@ -63,8 +64,8 @@ Add style guides or edit this list by submitting a pull request. Please order na
 
 * [Google](https://google.github.io/styleguide/objcguide.html)
 * [NYTimes](https://github.com/nytimes/objective-c-style-guide)
-* [Spotify](https://github.com/spotify/ios-style)
 * [raywnederlich.com](https://github.com/raywenderlich/objective-c-style-guide)
+* [Spotify](https://github.com/spotify/ios-style)
 * [Vokal](https://engineering.vokal.io/iOS/CodingStandards/Objective-C.md.html)
 
 ## Swift
@@ -72,6 +73,6 @@ Add style guides or edit this list by submitting a pull request. Please order na
 * [Airbnb](https://github.com/airbnb/swift)
 * [LinkedIn](https://github.com/linkedin/swift-style-guide)
 * [Google](https://google.github.io/swift/)
-* [SlideShare](https://github.com/SlideShareInc/swift-style-guide)
 * [raywenderlich.com](https://github.com/raywenderlich/swift-style-guide)
+* [SlideShare](https://github.com/SlideShareInc/swift-style-guide)
 * [Vokal](https://engineering.vokal.io/iOS/CodingStandards/Swift.md.html)

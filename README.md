@@ -71,8 +71,8 @@ Add style guides or edit this list by submitting a pull request. Please order na
 ## Swift
 
 * [Airbnb](https://github.com/airbnb/swift)
-* [LinkedIn](https://github.com/linkedin/swift-style-guide)
 * [Google](https://google.github.io/swift/)
+* [LinkedIn](https://github.com/linkedin/swift-style-guide)
 * [raywenderlich.com](https://github.com/raywenderlich/swift-style-guide)
 * [SlideShare](https://github.com/SlideShareInc/swift-style-guide)
 * [Vokal](https://engineering.vokal.io/iOS/CodingStandards/Swift.md.html)

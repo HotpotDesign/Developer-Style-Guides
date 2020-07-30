@@ -2,7 +2,8 @@
 
 Collection of language-specific style guides created and maintained by tech companies.
 
-If you know of any other style guides created by tech companies, feel free to add them to the list by submitting a pull request. Names should be ordered alphabetically.
+# Contributions
+Add style guides or edit this list by submitting a pull request. Please order names alphabetically.
 
 ## C#
 

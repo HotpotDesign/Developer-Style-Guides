@@ -1,6 +1,6 @@
 # Code Style Guides
 
-This page maintains style guides from Google, Facebook, Khan Academy, Airbnb, and various tech organizations.
+This page maintains developer style guides from Google, Facebook, Khan Academy, Airbnb, and various tech organizations.
 
 # Contributions
 

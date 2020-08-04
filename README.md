@@ -1,10 +1,10 @@
 # Code Style Guides
 
-Collection of language-specific style guides created and maintained by tech companies.
+This page maintains style guides from Google, Facebook, Khan Academy, Airbnb, and various tech organizations.
 
 # Contributions
 
-Add style guides or edit this list by submitting a pull request. Please order names alphabetically.
+Add or edit style guides by submitting a pull request. Please order names alphabetically.
 
 ## C#
 

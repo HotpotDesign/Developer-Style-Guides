@@ -1,4 +1,4 @@
-# Code Style Guides
+# Developer Style Guides
 
 This page lists developer style guides from Google, Facebook, Khan Academy, Airbnb, and various tech organizations.
 

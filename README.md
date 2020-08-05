@@ -4,7 +4,7 @@ This page lists developer style guides from Google, Facebook, Khan Academy, Airb
 
 # Contributions
 
-Add or edit style guides by submitting a pull request. Please order names alphabetically.
+Add or edit style guides by submitting a pull request. Please order entries alphabetically.
 
 ## C#
 
